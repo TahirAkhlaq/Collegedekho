@@ -1,0 +1,18 @@
+02/27/2018 05:25:08 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+02/27/2018 05:25:08 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+02/27/2018 05:25:08 PM - LoginPage - INFO: Element found with locator: password and  locatorType: name
+02/27/2018 05:25:08 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: name
+02/27/2018 05:25:11 PM - LoginPage - INFO: Element not found with locator: commit and  locatorType: name
+02/27/2018 05:25:11 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
+02/27/2018 05:29:50 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+02/27/2018 05:29:50 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+02/27/2018 05:29:50 PM - LoginPage - INFO: Element found with locator: password and  locatorType: name
+02/27/2018 05:29:50 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: name
+02/27/2018 05:29:50 PM - LoginPage - INFO: Element found with locator: //input[@type='submit'] and  locatorType: xpath
+02/27/2018 05:29:56 PM - LoginPage - INFO: Clicked on element with locator: //input[@type='submit'] locatorType: xpath
+03/12/2018 01:08:59 PM - LoginPage - INFO: Element found with locator: email and  locatorType: name
+03/12/2018 01:08:59 PM - LoginPage - INFO: Sent data on element with locator: email locatorType: name
+03/12/2018 01:08:59 PM - LoginPage - INFO: Element found with locator: password and  locatorType: name
+03/12/2018 01:08:59 PM - LoginPage - INFO: Sent data on element with locator: password locatorType: name
+03/12/2018 01:08:59 PM - LoginPage - INFO: Element found with locator: //input[@type='submit'] and  locatorType: xpath
+03/12/2018 01:09:04 PM - LoginPage - INFO: Clicked on element with locator: //input[@type='submit'] locatorType: xpath
